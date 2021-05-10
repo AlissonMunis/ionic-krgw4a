@@ -2,8 +2,8 @@ import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
 
 @Component({
-  selector: 'page-liga',
-  templateUrl: 'liga.html'
+  selector: 'page-liga-justica',
+  templateUrl: 'liga-justica.html'
 })
 export class LigaPage {
 
