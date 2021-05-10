@@ -10,7 +10,7 @@ import { LigaJusticaPage } from '../filmes/liga-justica/liga-justica' ;
 export class HomePage {
 
 paginaGodzilla = GodzillaPage;
-paginaLiga = LigaJusticaPage;
+paginaLigaJustica = LigaJusticaPage;
 
   constructor(public navCtrl: NavController) {
 
