@@ -19,6 +19,7 @@ import { LigaPage } from '../pages/filmes/liga/liga' ;
     HomePage,
     TabsPage,
     GodzillaPage,
+    LigaPage,
   ],
   imports: [
     BrowserModule,
@@ -32,6 +33,7 @@ import { LigaPage } from '../pages/filmes/liga/liga' ;
     HomePage,
     TabsPage,
     GodzillaPage,
+    LigaPage,
   ],
   providers: [
     {provide: ErrorHandler, useClass: IonicErrorHandler}
