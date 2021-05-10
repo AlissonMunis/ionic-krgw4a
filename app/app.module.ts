@@ -8,7 +8,7 @@ import { ContactPage } from '../pages/contact/contact';
 import { HomePage } from '../pages/home/home';
 import { TabsPage } from '../pages/tabs/tabs';
 
-import { GodzillaPage } from '../pages/filmes/godzilla/godziila' ;
+import { GodzillaPage } from '../pages/filmes/godzilla/godzilla' ;
 
 @NgModule({
   declarations: [
@@ -16,8 +16,8 @@ import { GodzillaPage } from '../pages/filmes/godzilla/godziila' ;
     AboutPage,
     ContactPage,
     HomePage,
-    TabsPage
-    GodzillaPage
+    TabsPage,
+    GodzillaPage,
   ],
   imports: [
     BrowserModule,
@@ -29,8 +29,8 @@ import { GodzillaPage } from '../pages/filmes/godzilla/godziila' ;
     AboutPage,
     ContactPage,
     HomePage,
-    TabsPage
-    GodzillaPage
+    TabsPage,
+    GodzillaPage,
   ],
   providers: [
     {provide: ErrorHandler, useClass: IonicErrorHandler}
