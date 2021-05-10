@@ -9,6 +9,7 @@ import { HomePage } from '../pages/home/home';
 import { TabsPage } from '../pages/tabs/tabs';
 
 import { GodzillaPage } from '../pages/filmes/godzilla/godzilla' ;
+import { LigaPage } from '../pages/filmes/liga/liga' ;
 
 @NgModule({
   declarations: [
