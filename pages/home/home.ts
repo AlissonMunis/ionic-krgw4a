@@ -14,7 +14,7 @@ paginaGodzilla = GodzillaPage;
 
 
   }
-paginaLiga = Liga-justicaPage;
+paginaLiga = LigaJusticaPage;
   constructor(public navCtrl: NavController) {
 
 

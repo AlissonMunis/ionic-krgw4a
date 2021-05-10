@@ -5,7 +5,7 @@ import { NavController } from 'ionic-angular';
   selector: 'page-liga-justica',
   templateUrl: 'liga-justica.html'
 })
-export class Liga-justicaPage {
+export class LigaJusticaPage {
 
   constructor(public navCtrl: NavController) {
 

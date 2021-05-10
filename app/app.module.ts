@@ -19,7 +19,7 @@ import { LigaPage } from '../pages/filmes/liga-justica/liga-justica' ;
     HomePage,
     TabsPage,
     GodzillaPage,
-    LigaPage,
+    LigaJusticaPage,
   ],
   imports: [
     BrowserModule,
@@ -33,7 +33,7 @@ import { LigaPage } from '../pages/filmes/liga-justica/liga-justica' ;
     HomePage,
     TabsPage,
     GodzillaPage,
-    LigaPage,
+    LigaJusticaPage,
   ],
   providers: [
     {provide: ErrorHandler, useClass: IonicErrorHandler}
